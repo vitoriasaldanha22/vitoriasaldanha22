@@ -1,37 +1,40 @@
 # Olá, eu sou a Vitoria Saldanha! 👋
 
-<div align="center">
-  <img src="imagem_github.jpg" width="450" alt="Vitoria trabalhando em seu computador">
-</div>
-
-## 📌 Sobre Mim
-Atuo há mais de **2 anos em Suporte TI** e sou estudante de **Sistemas de Informação**. Meu foco atual é a especialização em **Análise de Dados, Inteligência Artificial e Desenvolvimento**. 🚀
-
-- 🔭 **Projeto Atual:** **Entec2025**, um Agente Inteligente de Irrigação (IoT + IA), onde atuei na estruturação do Banco de Dados.
-- 🎓 **Aprendizado:** Python, SQL, Power BI, API Rest e Machine Learning.
+Desenvolvedora de Software e Engenheira de IA em formação, com foco na construção de **Sistemas de Agentes Autônomos, Pipelines Multimodais e Arquiteturas RAG**. Atualmente atuo no desenvolvimento de soluções de software e inteligência artificial voltadas para engenharia de manufatura, além de liderar iniciativas técnicas como **Embaixadora Estudantil Google**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 🚀 Destaques & Trajetória Técnica Recente
 
-### 📊 Análise de Dados
-![Python](https://img.shields.io/badge/python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-FF1493?style=for-the-badge&logo=powerbi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FFB6C1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-DB7093?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+* 🏆 **3º Lugar no HackaEmb (Engenharia de Manufatura):** Co-desenvolvimento em 5 dias de uma solução de inspeção técnica inteligente com visão computacional e agente conversacional integrado para padronização automática de inconformidades e mitigação de retrabalho.
+* ⚙️ **PoC de Produtização de Agente Multimodal:** Atuação direta na orquestração de agente inteligente com entrada multimodal (texto/imagem), validação estrita de esquemas de dados (JSON Schema) e acionamento de ferramentas via Tool Calling.
+* 🌟 **Google Student Ambassador (GSA):** Condução de workshops técnicos, masterclasses e disseminação prática sobre IA Generativa, ecossistema Gemini e desenvolvimento de prompts avançados para a comunidade acadêmica.
+* 🤖 **Sistemas RAG & Orquestração de Agentes Backend:** Desenvolvimento de base de conhecimento vetorial personalizada e orquestração de agentes para orientação técnica de processos internos de backend e validação automatizada de roteiros complexos.
 
-### 💻 Desenvolvimento
-![Java](https://img.shields.io/badge/java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white)
-![Frameworks](https://img.shields.io/badge/Frameworks-FF1493?style=for-the-badge&logo=codeforces&logoColor=white)
-![PHP](https://img.shields.io/badge/php-FFB6C1?style=for-the-badge&logo=php&logoColor=white)
-![API](https://img.shields.io/badge/API-DB7093?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+---
 
+### 🛠️ Stack Tecnológica & Competências
 
+* **Engenharia de IA & LLMs:** Agentes Inteligentes, Tool/Function Calling, RAG (Retrieval-Augmented Generation), Structured Outputs (Pydantic), Prompts Modulares, Avaliação e Review Grading.
+* **Linguagens & Frameworks:** Python, Flask, FastAPI, SQL, SQLAlchemy.
+* **Dados & Engenharia de Software:** Oracle, MySQL, Git, REST APIs, Modelagem Relacional, Pipelines de Dados.
 
-## 📫 Vamos nos conectar?
-<div align="center">
-  <a href="https://linkedin.com/in/vitoria-saldanha-749056212">
-    <img src="https://img.shields.io/badge/linkedin-%23E4405F.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+---
+
+### 💼 Cases de IA & Projetos em Destaque
+
+#### 🛰️ [Multimodal Agent Inspector](https://github.com/vitoriasaldanha22/multimodal-agent-inspector)
+> Pipeline agêntico de extração estruturada de dados com validação determinística de regras técnicas via **Pydantic v2**, ingestão multimodal e execução segura de integrações industriais (ERP/MES) via Tool Calling.
+
+#### 🌱 [Entec2025: Agente Inteligente de Irrigação](https://github.com/vitoriasaldanha22/Entec2025)
+> Integração de IoT e visão computacional (CNNs) para diagnóstico fitossanitário autônomo e arquitetura de persistência de dados em nuvem.
+
+#### 📊 [Indicadores de Eficiência de Automações Internas]
+> Desenvolvimento de APIs REST em Flask e modelagem em PostgreSQL/SQLAlchemy para mensuração precisa de horas-homem economizadas em esteiras corporativas.
+
+---
+
+### 📬 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitoria-saldanha-749056212)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitoriasaldanha22)
